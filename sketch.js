@@ -3,7 +3,7 @@ var bgImg
 
 function preload() {
   snowflakeImg = loadImage("snow5.webp");
-  bgImg = loadImage("snow2.jpg");
+  bgImg = loadImage("snow3.jpg");
 }
 function setup() {
   createCanvas(800,400);
